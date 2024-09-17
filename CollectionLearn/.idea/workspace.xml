@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2e71e73-5661-4bef-a811-2222f35c11ca" name="Changes" comment="Collection List test" />
+    <list default="true" id="d2e71e73-5661-4bef-a811-2222f35c11ca" name="Changes" comment="Collection List test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MapTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +24,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Perish0ZsyD"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Perish0ZsyD/javase_learn.git",
+    "accountId": "8d78a100-a395-4dba-8eb7-c042a950f21a"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -75,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726558038525</updated>
-      <workItem from="1726558039722" duration="1933000" />
+      <workItem from="1726558039722" duration="2461000" />
     </task>
     <task id="LOCAL-00001" summary="Collection List test">
       <option name="closed" value="true" />
