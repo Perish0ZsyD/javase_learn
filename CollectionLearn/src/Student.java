@@ -9,6 +9,10 @@ public class Student {
         this.name = name;
         this.score = score;
     }
+
+    public String  toString() {
+        return String.format("{%s: score = %d}", name, score);
+    }
 }
 /**
  * Case uses for map study

@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2e71e73-5661-4bef-a811-2222f35c11ca" name="Changes" comment="Collection Map test">
+    <list default="true" id="d2e71e73-5661-4bef-a811-2222f35c11ca" name="Changes" comment="Collection Map hashcode">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +49,10 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -93,7 +95,8 @@
       <option name="presentableId" value="Default" />
       <updated>1726558038525</updated>
       <workItem from="1726558039722" duration="3089000" />
-      <workItem from="1726643040637" duration="2112000" />
+      <workItem from="1726643040637" duration="2153000" />
+      <workItem from="1726723651554" duration="3623000" />
     </task>
     <task id="LOCAL-00001" summary="Collection List test">
       <option name="closed" value="true" />
@@ -111,7 +114,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726560542425</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Collection Map hashcode">
+      <option name="closed" value="true" />
+      <created>1726645288865</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726645288865</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Collection Map hashcode">
+      <option name="closed" value="true" />
+      <created>1726645299998</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726645299998</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +142,7 @@
     </ignored-roots>
     <MESSAGE value="Collection List test" />
     <MESSAGE value="Collection Map test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collection Map test" />
+    <MESSAGE value="Collection Map hashcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collection Map hashcode" />
   </component>
 </project>
