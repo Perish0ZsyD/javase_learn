@@ -1,3 +1,4 @@
+
 import java.util.*;
 
 public class Main {
@@ -84,14 +85,14 @@ public class Main {
 //        System.out.println(q.poll()); // pear
 //        System.out.println(q.poll()); // null
         // 自定义类实现Comparable创建PriorityQueue,优先级队列的队首是优先级最高的元素
-        Queue<User> q = new PriorityQueue<>();
-        q.offer(new User("Bob", "A1"));
-        q.offer(new User("Alice", "A2"));
-        q.offer(new User("Boss", "V1"));
-        System.out.println(q.poll()); // Boss / V1
-        System.out.println(q.poll()); // Bob / A1
-        System.out.println(q.poll()); // Alice /A2
-        System.out.println(q.poll()); // null Queue now is empty
+//        Queue<User> q = new PriorityQueue<>();
+//        q.offer(new User("Bob", "A1"));
+//        q.offer(new User("Alice", "A2"));
+//        q.offer(new User("Boss", "V1"));
+//        System.out.println(q.poll()); // Boss / V1
+//        System.out.println(q.poll()); // Bob / A1
+//        System.out.println(q.poll()); // Alice /A2
+//        System.out.println(q.poll()); // null Queue now is empty
         /**
          * 在PriorityQueue的插入过程中，以下是compareTo方法可能被调用的几种情况:
          * 添加新元素：当你调用add(User u)或offer(User u)方法将一个新的User对象u添加到队列中时，PriorityQueue可能会将u与队列中的现有元素进行比较，以确定它在堆中的正确位置。
@@ -100,6 +101,7 @@ public class Main {
          * 内部堆调整：当向PriorityQueue中添加新元素导致堆的性质被破坏时，队列内部会进行一系列的比较和元素移动来恢复堆的性质。
          * 在这个过程中，compareTo方法可能会被多次调用，以比较并重新排列元素。同样地，this和u1将分别代表正在进行比较的两个User对象。
          */
+
     }
 }
 
